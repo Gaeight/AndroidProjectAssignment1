@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="taxView">TextView</string>
+    <string name="payView">TextView</string>
+    <string name="btnCalculate">Calculate</string>
+    <string name="hRateText">hourly rate</string>
+    <string name="hourRateText">number of hours worked</string>
+    <string name="hours_worked">Hours worked</string>
+</resources>
